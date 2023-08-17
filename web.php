@@ -1,3 +1,3 @@
 <?php
 
-use App\Http\Controllers\OrdersController;
+use App\Http\Controllers\OrderController;
